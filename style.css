@@ -50,6 +50,7 @@ nav ul {
 }
 nav ul li {
     margin-left: 20px;
+    font-size: larger;
 }
 nav ul li a {
     font-weight: 500;
